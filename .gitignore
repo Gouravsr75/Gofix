@@ -1,0 +1,22 @@
+# Laragon / Environment files
+.env
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+
+# Temporary / Cache files
+*.tmp
+*.temp
+*.swp
+*~
